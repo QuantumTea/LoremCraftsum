@@ -2,6 +2,9 @@
 3-ply
 agree
 alpaca
+alpaca ranch
+angora goat
+angora rabbit
 aqua
 Babydoll Southdown
 ball
@@ -10,14 +13,17 @@ bamboo
 beige
 bind off
 black
+block
+blocking mat
+blocking pins
 blue
 Blue-faced Leicester
 bobble
+book
 box
 brown
 cable
 cable ply
-camel
 camel
 cardigan
 cashmere
@@ -26,13 +32,15 @@ cast on
 chain ply
 chart
 circular needle
-cobweb
+cobweb weight
 Columbia
 container
 Cotswold
 cotton
 crochet
+crochet cast-on
 darning needle
+decrease
 disagree
 diz
 DK weight
@@ -43,6 +51,7 @@ drop spindle
 dropped stitch
 edging
 favourited
+felt
 felted
 fiber
 fibre
@@ -53,6 +62,7 @@ forum
 fringe
 frog
 frogging
+frog hair
 fulled
 gap
 garter stitch
@@ -62,7 +72,6 @@ glove
 gloves
 green
 grey
-grey
 group
 hat
 hemp
@@ -70,28 +79,42 @@ hole
 holiday knitting
 hook
 hooking
+increase
 Jacob
 k2tog
 knit
 knit stitch
 knitting
+Knitty
 knot
+knots
+knotted
+Kool-Aid
 laceweight
 lemon
+library
 lime
 linen
 llama
+local yarn store
+locking stitch marker
 lying swatch
 magenta
 magic loop
+marker
 measuring tape
 Merino
+microwave
+mistake
+mohair
 Navajo ply
+needle
 niddy-noddy
 nupp
 nylon
 orange
 pattern
+PDF
 pick up
 picot
 pink
@@ -117,6 +140,7 @@ repeat
 rip
 rip out
 ripping
+ruler
 S twist
 SABLE
 sari silk
@@ -126,6 +150,7 @@ scrap yarn
 self-striping
 shawl
 sheep
+sheep farm
 silk
 silk hankie
 silk noil
@@ -143,13 +168,17 @@ stash
 stitch marker
 stocking stitch
 storage
+swap
 swatch
 sweater
 swift
 tangle
 tangled
+tape measure
 Targhee
 tbl
+teal
+trotting horse
 turquoise
 twist
 two at a time
