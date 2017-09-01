@@ -2,9 +2,12 @@ a
 after
 an
 and
+and then
 another
 at
+at the
 be
+because
 before
 behind
 beyond
@@ -15,16 +18,20 @@ cannot
 close
 closes
 closing
+consisting of
 do
 does
 doesn't
 doing
 don't
+don't ever
 end
 ending
 every
 everywhere
 each
+each and every
+entirely made of
 for
 from
 happen
@@ -33,7 +40,9 @@ happening
 here
 how
 if
+if and only if
 is
+is obvious that
 it
 less
 least
@@ -41,10 +50,15 @@ more
 most
 move
 moving
+near to
+nearly
 new
 never
+never again
 no
+no more
 not
+not ever
 now
 nowhere
 of
@@ -52,25 +66,38 @@ off
 often
 old
 on
+on the offchance that
 open
 opens
 opening
 out
 over
+regarding
+respectfully
 start
 starts
 starting
 than
 the
+the one and only
+the best
+the worst
 then
 there
 this
 that
 to
+used to
+unsure of
 via
 who
+who did
+who could not possibly
 what
 when
 where
+which is why
 with
 without
+would
+would not
